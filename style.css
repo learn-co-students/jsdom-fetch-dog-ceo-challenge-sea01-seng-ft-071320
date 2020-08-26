@@ -1,0 +1,15 @@
+.filtered {
+  display: none;
+}
+
+ul#dog-breeds {
+  list-style: none;
+}
+
+.dog-breed > p:hover {
+  color: steelblue;
+}
+
+.clr-steelblue {
+  color: steelblue;
+}
